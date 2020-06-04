@@ -1,2 +1,8 @@
 # Python-Financial-Engineering
-Contains my Google Colab projects. Includs derivatives pricing scripts using a GARCH based Monte-Carlo approach and scripts for portfolio optimization.
+Contains my Google Colab projects. 
+
+Includes: 
+
+Derivatives pricing scripts using a GARCH based Monte-Carlo approach.
+
+Portfolio optimization scripts using mean-variance with a sophisticated approach to finding the covariance matrix.
